@@ -36,7 +36,7 @@
     "yarn": "^0.21.3"
   },
   "dependencies": {
-    "animate.css": "^3.5.2",
+    "animate.css": "^3.7.2",
     "babel": "^6.23.0",
     "fastclick": "^1.0.6",
     "fetch": "^1.0.1",
